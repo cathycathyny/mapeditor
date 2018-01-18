@@ -1,0 +1,76 @@
+/* 
+    This style sheet stylizes the controls inside our
+    Web Page Maker JavaFX application. Note that controls
+    in the UI must have the same class as those below in 
+    order to be rendered using those properties.
+
+    Author:	Richard McKenna
+    Author:	Siqing Lee
+    Version:	1.0
+*/
+
+.mapNameLabel{
+    -fx-padding: 0 15 0 0;
+}
+
+.borderSlider{
+    -fx-min-width: 100;
+    -fx-padding: 25 15 5 15;
+}
+
+.zoomSlider{
+    -fx-min-width: 200;
+    -fx-padding: 25 15 5 15;
+}
+.background{
+    -fx-background-color: #aaaaff;
+}
+
+.mapNameTextfield{
+    -fx-font-size: 10pt;
+    -fx-min-width: 200;
+}
+
+.file_toolbar_pane {
+    -fx-padding: 15;
+}
+
+.padding{
+    -fx-padding: 20 25 10 25;
+}
+
+.file_button{
+    -fx-padding: 10;
+}
+
+.label{
+    -fx-padding: 0 15 0 15;
+}
+
+.edit_toolbar_pane {
+    -fx-background-color: #aaaaff;
+    -fx-background-radius: 5.0;
+    -fx-padding: 0 0 0 35;
+    -fx-spacing: 10;
+    -fx-border-width: 2px;
+    -fx-border-color: #7777dd;
+}
+
+.heading_label {
+    -fx-font-size: 20pt;
+    -fx-font-weight: bold;
+}
+
+.subheading_label {
+    -fx-font-size: 14pt;
+    -fx-font-weight: bold;
+}
+
+.prompt_label {
+    -fx-font-size: 10pt;
+    -fx-font-weight: bold;
+}
+
+.root{
+    
+}

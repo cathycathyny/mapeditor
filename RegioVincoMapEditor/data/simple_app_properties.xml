@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this properties file is only
+    for the standard controls for an app from the SimpleAppFramework, so
+    it would not include things initialized for the workspace, which is
+    customizable.
+-->
+<properties>
+    <property_list>
+        <property name="APP_TITLE"	    value="Regio Vinco Map Editor"></property>
+	<property name="APP_LOGO"	    value="map.png"></property>
+	<property name="APP_PATH_CSS"	    value="css/"></property>
+	<property name="APP_CSS"	    value="rvme_style.css"></property>
+        
+        <!-- PROGRAM ICON FILES -->
+        <property name="NEW_ICON"	    value="New.png"></property>
+        <property name="LOAD_ICON"	    value="Load.png"></property>
+        <property name="SAVE_ICON"	    value="Save.png"></property>
+        <property name="EXPORT_ICON"	    value="Export.png"></property>
+        <property name="EXIT_ICON"          value="Exit.png"></property> 
+        
+        <property name="NEXT_ICON"	    value="next.png"></property>
+        <property name="PREV_ICON"	    value="prev.png"></property>
+        
+        <!-- TOOLTIPS FOR BUTTONS -->
+        <property name="NEW_TOOLTIP"		value="Create a New Map to Edit"></property>
+        <property name="LOAD_TOOLTIP"		value="Load Map Editor File"></property>
+        <property name="SAVE_TOOLTIP"		value="Save Changes"></property>
+        <property name="EXPORT_TOOLTIP"		value="Export Regio Vinco Map"></property>
+        <property name="EXIT_TOOLTIP"		value="Exit the Application"></property>
+        
+        
+        <property name="NEXT_TOOLTIP"		value="Prev Subregion"></property>
+        <property name="PREV_TOOLTIP"		value="Next Subregion"></property>
+        
+        <!-- ERROR MESSAGES -->
+        <property name="CLOSE_BUTTON_TEXT"              value="Close"></property>
+
+        <property name="NEW_ERROR_MESSAGE"              value="An error occured creating New work."></property>
+        <property name="NEW_ERROR_TITLE"		value="New Work Error"></property>
+        <property name="LOAD_ERROR_MESSAGE"             value="An error occured loading work."></property>
+        <property name="LOAD_ERROR_TITLE"		value="Load Work Error"></property>
+        <property name="NEW_MAP_TITLE"                  value="Create New Map"></property>
+        <property name="SAVE_ERROR_MESSAGE"             value="An error occured saving work."></property>
+        <property name="SAVE_ERROR_TITLE"		value="Save Work Error"></property>
+        <property name="PROPERTIES_LOAD_ERROR_MESSAGE"	value="An error occured loading a properties file."></property>	
+        <property name="PROPERTIES_LOAD_ERROR_TITLE"	value="Properties File Loading Error"></property>
+	
+        <!-- VERIFICATION MESSAGES -->
+	
+        <property name="NEW_COMPLETED_MESSAGE"		value="New Work Ready for Editing"></property>
+        <property name="NEW_COMPLETED_TITLE"		value="New Work Created"></property>
+        <property name="LOAD_COMPLETED_MESSAGE"		value="File Loading Completed and ready for editing"></property>
+        <property name="LOAD_COMPLETED_TITLE"		value="Loading Completed"></property>
+        <property name="SAVE_COMPLETED_MESSAGE"		value="File Saving Completed"></property>
+        <property name="SAVE_COMPLETED_TITLE"		value="Saving Completed"></property>
+        <property name="SAVE_UNSAVED_WORK_MESSAGE"	value="Would you like to save your unsaved work first?"></property>
+        <property name="SAVE_UNSAVED_WORK_TITLE"	value="Save unsaved work?"></property>
+        <property name="EXPORT_COMPLETED_MESSAGE"       value="File exporting Completed"></property>
+        <property name="EXPORT_COMPLETED_TITLE"		value="Exporting Completed"></property>
+	
+        <property name="NEW_CREATED_MESSAGE"		value="New Work Created but not yet Saved"></property>
+        <property name="WORK_LOADED_MESSAGE"		value="The Work has been Loaded"></property>
+        <property name="WORK_SAVED_MESSAGE"		value="The Work has been Saved"></property>
+        <property name="SAVE_UNSAVED_WORK_MESSAGE"	value="Do you want to save your unsaved work first?"></property>
+	<property name="SAVE_WORK_TITLE"		value="Save your work"></property>
+        <property name="EXPORT_WORK_TITLE"		value="Export your work"></property>
+	<property name="LOAD_WORK_TITLE"		value="Select work file to load"></property>
+	<property name="EXPORT_FILE_EXT"		value="rvm"></property>
+	<property name="EXPORT_FILE_EXT_DESC"		value="Regio Vinco Map"></property>
+        <property name="WORK_FILE_EXT"                  value="json"></property>
+	<property name="WORK_FILE_EXT_DESC"		value="json"></property>
+    </property_list>
+    <property_options_list>
+    </property_options_list>
+</properties>

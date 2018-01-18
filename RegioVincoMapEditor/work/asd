@@ -1,0 +1,101 @@
+
+{
+    "name":"adasd",
+    "subregions_have_capitals":false,
+    "subregions_have_flags":false,
+    "subregions_have_leaders":false,
+    "image":[
+    ],
+    "subregions":[
+        {
+            "name":"Subregion Name0",
+            "capital":"",
+            "leader":"",
+            "red":94,
+            "green":94,
+            "blue":94
+        },
+        {
+            "name":"Subregion Name1",
+            "capital":"",
+            "leader":"",
+            "red":71,
+            "green":71,
+            "blue":71
+        },
+        {
+            "name":"Subregion Name2",
+            "capital":"",
+            "leader":"",
+            "red":42,
+            "green":42,
+            "blue":42
+        },
+        {
+            "name":"Subregion Name3",
+            "capital":"",
+            "leader":"",
+            "red":198,
+            "green":198,
+            "blue":198
+        },
+        {
+            "name":"Subregion Name4",
+            "capital":"",
+            "leader":"",
+            "red":69,
+            "green":69,
+            "blue":69
+        },
+        {
+            "name":"Subregion Name5",
+            "capital":"",
+            "leader":"",
+            "red":222,
+            "green":222,
+            "blue":222
+        },
+        {
+            "name":"Subregion Name6",
+            "capital":"",
+            "leader":"",
+            "red":116,
+            "green":116,
+            "blue":116
+        },
+        {
+            "name":"Subregion Name7",
+            "capital":"",
+            "leader":"",
+            "red":210,
+            "green":210,
+            "blue":210
+        },
+        {
+            "name":"Subregion Name8",
+            "capital":"",
+            "leader":"",
+            "red":19,
+            "green":19,
+            "blue":19
+        }
+    ],
+    "Controls":[
+        {
+            "background-color":"0xcc8099ff",
+            "border-color":"0xffe680ff",
+            "border-width":17.083333333333332,
+            "map-width":802,
+            "map-height":536,
+            "zoom-level":0.0
+        }
+    ],
+    "file Path":[
+        {
+            "parent-directory":"./The World\\adasd",
+            "map-data":"C:\\Users\\leesio2\\Documents\\regiovincomapeditor\\RegioVincoMapEditor\\raw_map_data\\San Marino.json",
+            "imagefile":"./The World\\adasd/adasd",
+            "anthem":"./The World\\adasd/adasd.mid"
+        }
+    ]
+}

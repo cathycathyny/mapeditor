@@ -1,0 +1,106 @@
+
+{
+    "name":"dsf",
+    "subregions_have_capitals":false,
+    "subregions_have_flags":false,
+    "subregions_have_leaders":false,
+    "image":[
+        {
+            "path":"C:\\Users\\leesio2\\Documents\\regiovincomapeditor\\RegioVincoMapEditor\\export\\The World\\Europe\\Wales Flag.png",
+            "X":99.0,
+            "Y":183.0
+        }
+    ],
+    "subregions":[
+        {
+            "name":"Subregion Name0",
+            "capital":"",
+            "leader":"",
+            "red":255,
+            "green":255,
+            "blue":255
+        },
+        {
+            "name":"Subregion Name1",
+            "capital":"",
+            "leader":"",
+            "red":249,
+            "green":249,
+            "blue":249
+        },
+        {
+            "name":"Subregion Name2",
+            "capital":"",
+            "leader":"",
+            "red":243,
+            "green":243,
+            "blue":243
+        },
+        {
+            "name":"Subregion Name3",
+            "capital":"",
+            "leader":"",
+            "red":237,
+            "green":237,
+            "blue":237
+        },
+        {
+            "name":"Subregion Name4",
+            "capital":"",
+            "leader":"",
+            "red":231,
+            "green":231,
+            "blue":231
+        },
+        {
+            "name":"Subregion Name5",
+            "capital":"",
+            "leader":"",
+            "red":225,
+            "green":225,
+            "blue":225
+        },
+        {
+            "name":"Subregion Name6",
+            "capital":"",
+            "leader":"",
+            "red":219,
+            "green":219,
+            "blue":219
+        },
+        {
+            "name":"Subregion Name7",
+            "capital":"",
+            "leader":"",
+            "red":213,
+            "green":213,
+            "blue":213
+        },
+        {
+            "name":"Subregion Name8",
+            "capital":"",
+            "leader":"",
+            "red":207,
+            "green":207,
+            "blue":207
+        }
+    ],
+    "Controls":[
+        {
+            "background-color":"#19b1ca",
+            "border-color":"#000000",
+            "border-width":2.0,
+            "map-width":802,
+            "map-height":536,
+            "zoom-level":0.0
+        }
+    ],
+    "file Path":[
+        {
+            "parent-directory":"./export\\dsf",
+            "map-data":"C:\\Users\\leesio2\\Documents\\regiovincomapeditor\\RegioVincoMapEditor\\raw_map_data\\San Marino.json",
+            "imagefile":"./export\\dsf/dsf",
+            "anthem":"./export\\dsf/dsf.mid"
+        }
+    ]
+}

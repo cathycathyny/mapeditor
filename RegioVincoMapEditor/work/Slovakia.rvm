@@ -1,0 +1,98 @@
+
+{
+    "name":"Slovakia",
+    "subregions_have_capitals":false,
+    "subregions_have_flags":false,
+    "subregions_have_leaders":false,
+    "image":[
+        {
+            "path":"./export/The World/Europe/Slovakia Flag.png",
+            "X":0.0,
+            "Y":0.0
+        }
+    ],
+    "subregions":[
+        {
+            "name":"Bratislava",
+            "capital":"",
+            "leader":"",
+            "red":250,
+            "green":250,
+            "blue":250
+        },
+        {
+            "name":"Trnava",
+            "capital":"",
+            "leader":"",
+            "red":249,
+            "green":249,
+            "blue":249
+        },
+        {
+            "name":"Trencin",
+            "capital":"",
+            "leader":"",
+            "red":248,
+            "green":248,
+            "blue":248
+        },
+        {
+            "name":"Nitra",
+            "capital":"",
+            "leader":"",
+            "red":247,
+            "green":247,
+            "blue":247
+        },
+        {
+            "name":"Zilina",
+            "capital":"",
+            "leader":"",
+            "red":246,
+            "green":246,
+            "blue":246
+        },
+        {
+            "name":"Banska Bystrica",
+            "capital":"",
+            "leader":"",
+            "red":245,
+            "green":245,
+            "blue":245
+        },
+        {
+            "name":"Presov",
+            "capital":"",
+            "leader":"",
+            "red":244,
+            "green":244,
+            "blue":244
+        },
+        {
+            "name":"Kosiceo",
+            "capital":"",
+            "leader":"",
+            "red":242,
+            "green":242,
+            "blue":242
+        }
+    ],
+    "Controls":[
+        {
+            "background-color":"#ff6600",
+            "border-color":"#000000",
+            "border-width":15.0,
+            "map-width":802,
+            "map-height":536,
+            "zoom-level":2.0
+        }
+    ],
+    "file Path":[
+        {
+            "parent-directory":"./export/The World/Europe/Slovakia",
+            "map-data":"./raw_map_data/Slovakia.json",
+            "imagefile":"./export/The World/Europe/Slovakia",
+            "anthem":"./export/The World/Europe/Slovakia/Slovakia National Anthem.mid"
+        }
+    ]
+}

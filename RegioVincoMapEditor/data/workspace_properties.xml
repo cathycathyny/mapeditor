@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this properties file is only
+    for the workspace controls, which are custom for each application
+-->
+<properties>
+    <property_list>
+        <!-- PROGRAM ICON FILES -->
+        <property name="PENCIL_ICON"            value="pencil.png"></property>
+	<property name="ADD_ICON"               value="addImage.png"></property>
+	<property name="REMOVE_ICON"		value="removeImage.png"></property>
+        <property name="BACKGROUND_COLOR_ICON"  value="background.png"></property>
+        <property name="BORDER_COLOR_ICON"	value="border.png"></property>
+        <property name="RANDOM_ICON"            value="random.png"></property>
+	<property name="SIZING_ICON"		value="sizing.png"></property>
+        <property name="PLAY_ICON"              value="play.png"></property>
+	<property name="PAUSE_ICON"		value="pause.png"></property>
+        <property name="BORDER_THICKNESS_ICON"	value="borderline.png"></property>
+        <property name="ZOOM_ICON"              value="zoom.png"></property>
+        
+        <!-- TOOLTIPS FOR BUTTONS -->
+        <property name="PENCIL_TOOLTIP"             value="Edit Map Name"></property>
+	<property name="ADD_ITEM_TOOLTIP"	    value="Add Image to the Map"></property>
+	<property name="REMOVE_ITEM_TOOLTIP"        value="Remove Image"></property>
+        <property name="BACKGROUND_COLOR_TOOLTIP"   value="Select Background Color"></property>
+        <property name="BORDER_COLOR_TOOLTIP"       value="Select border Color"></property>
+	<property name="RANDOM_TOOLTIP"             value="Random color"></property>
+        <property name="SIZING_TOOLTIP"             value="Changing the dimension"></property>
+        <property name="PLAY_TOOLTIP"               value="Play Anthem"></property>
+        <property name="PAUSE_TOOLTIP"              value="Pause Anthem"></property>
+	<property name="BORDER_THICKNESS_TOOLTIP"   value="Changing border thickness"></property>
+        <property name="ZOOM_TOOLTIP"               value="Zoom in or Zoom out Map"></property>
+        
+	<!-- HEADINGS AND PROMPTS -->
+        <property name="MAP_NAME_LABEL"             value="Map Name"></property>
+	<property name="WORKSPACE_HEADING_LABEL"    value="To Do List"></property>
+	<property name="DETAILS_HEADING_LABEL"	    value="Details"></property>
+	<property name="NAME_PROMPT"                value="Name of Todo List:"></property>
+	<property name="OWNER_PROMPT"               value="Owner:"></property>
+        <property name="ITEMS_HEADING_LABEL"        value="Items"></property>
+	
+        <!-- TABLE COLUMN HEADINGS -->
+        <property name="NAME_COLUMN_HEADING"        value="Name"></property>
+        <property name="CAPITAL_COLUMN_HEADING"     value="Capital"></property>
+        <property name="LEADER_COLUMN_HEADING"      value="Leader"></property>
+        
+                	
+	<!-- ERROR MESSAGES AND TITLES FOR THEIR DIALOGS -->
+	<property name="ATTRIBUTE_UPDATE_ERROR_MESSAGE"	    value="WARNING: An error occured updating the element's attribute."></property>
+	<property name="ATTRIBUTE_UPDATE_ERROR_TITLE"	    value="Attribute Update Error"></property>
+	<property name="UPDATE_ERROR_MESSAGE"		    value="An error occured updating the UI"></property>
+	<property name="UPDATE_ERROR_TITLE"		    value="UI Update Error"></property>
+        
+        <!-- Add item Dialog -->
+        <property name="ADD_HEADER"        value="Add Todo Items"></property>
+        <property name="ADD_CATEGORY"        value="Category:"></property>
+        <property name="ADD_DESCRIPTION"     value="Description:"></property>
+        <property name="ADD_START_DATE"      value="Start Date:"></property>
+        <property name="ADD_END_DATE"        value="End Date:"></property>
+        <property name="ADD_COMPLETED"       value="Completed:"></property>
+        
+        <!--Button  -->
+        <property name="OK_BUTTON"        value="OK"></property>
+        <property name="CANCEL_BUTTON"     value="Cancel"></property>
+        
+        <!--remove dialog sure or not  -->
+        <property name="REMOVE_HEADER"        value="Remove Item"></property>
+        <property name="REMOVE_CONTENT"     value="Are you sure to remove this item?"></property>
+        
+    </property_list>
+    <property_options_list>
+    </property_options_list>
+</properties>
